@@ -16,12 +16,12 @@ To use this repo you need to have:
 The dataset of this repo can be downloaded from [kaggle](https://www.kaggle.com/tongpython/cat-and-dog)
 
 # Pre-trained Weights
-The pre-trained weights in **Alexnet_weights** folder can be obtained from my Baidu Netdisk:
-link: https://pan.baidu.com/s/1esJCu0by9cc9hisbAmzyQg  password: 1a24
+The pre-trained weights in **Alexnet_weights** folder can be obtained from my Baidu Netdisk
+**link:** https://pan.baidu.com/s/1esJCu0by9cc9hisbAmzyQg  **password:** 1a24
 
 # Result
 The accuracy on test dataset is 0.958165.
 
 examples:
-[Result1:](result1.png)
-[Result2:](result2.png)
+![Result1:](result1.png)
+![Result2:](result2.png)
