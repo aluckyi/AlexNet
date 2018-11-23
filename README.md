@@ -22,6 +22,5 @@ The pre-trained weights in **Alexnet_weights** folder can be obtained from my Ba
 # Result
 The accuracy on test dataset is 0.958165.
 
-examples:
 ![Result1:](result1.png)
 ![Result2:](result2.png)
